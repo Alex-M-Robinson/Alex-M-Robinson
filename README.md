@@ -3,8 +3,8 @@
 <h3 align="Center">I am a passionate Software Developer</h3>
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  hspace="10" align="right">
 
-
-- 📫 How to reach me
+<h3 align="left">📫 How to reach me</h3>
+- 
 
 -  ✉️️  **alex_m_robinson@outlook.com** 
 
