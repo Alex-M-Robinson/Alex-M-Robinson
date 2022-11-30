@@ -4,10 +4,10 @@
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  hspace="-2" align="right">
 
 <h2 align="center">📫 How to reach me</h2>
-<h3>
+
 -  ✉️️  **alex_m_robinson@outlook.com** 
 - 👨‍💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/alex-m-robinson/
-</h3>
+
 <p align="center">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="40" /></a>
 </p>
