@@ -2,6 +2,8 @@
 <h3 align="center">Welcome to my GitHub!</h3>
 <h3 align="Center">I am a passionate Software Developer</h3>
 <img align="right" ><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img src="http://urlref.at/images/3o.gif" align="left" hspace="20" />
+<img src="http://urlref.at/images/3o.gif" hspace="20" />
 - 📫 How to reach me
 
 -  ✉️️  **alex_m_robinson@outlook.com** 
