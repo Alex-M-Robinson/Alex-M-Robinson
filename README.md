@@ -9,8 +9,8 @@
 -  ✉️️  **alex_m_robinson@outlook.com** 
 
 - 👨‍💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/alex-m-robinson/
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="40" /></a>
+<p align="center">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
