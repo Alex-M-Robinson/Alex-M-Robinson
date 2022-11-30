@@ -4,7 +4,7 @@
 - 📫 How to reach me **alex_m_robinson@outlook.com**
 - LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/alex-m-robinson/
 
-<h3 align="left">Thanks for checking me out!</h3>
+<h3 align="Center">Welcome to my GitHub!</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="40" /></a>
 </p>
