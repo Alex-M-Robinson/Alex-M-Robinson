@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Alex Robinson</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 📫 How to reach me **alex_m_robinson@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">LinkedIn:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-m-robinson/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="40" /></a>
 </p>
 
