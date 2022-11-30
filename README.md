@@ -2,11 +2,9 @@
 <h3 align="center">Welcome to my GitHub!</h3>
 <h3 align="Center">I am a passionate Software Developer</h3>
 <img align="right" width="800"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-- 📫 How to reach me **alex_m_robinson@outlook.com** \n
+- 📫 How to reach me **alex_m_robinson@outlook.com** 
+
 - 👨‍💼 LinkedIn: https://linkedin.com/in/https://www.linkedin.com/in/alex-m-robinson/
-
-
-
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-m-robinson/" height="30" width="40" /></a>
 </p>
